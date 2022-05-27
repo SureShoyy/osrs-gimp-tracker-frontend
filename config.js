@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://oom-gim.herokuapp.com:6992'
+const CONFIG_BACKEND_URL = 'https://oom-gim.herokuapp.com/'
