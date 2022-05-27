@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://oom-gim.herokuapp.com/'
+const CONFIG_BACKEND_URL = 'https://oom-gim.herokuapp.com/socket.io/test'
